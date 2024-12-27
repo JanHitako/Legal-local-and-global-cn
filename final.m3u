@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png"group-title="Global" ,C8
-https://live-b.cf.dmcdn.net/sec2(R13y_ObfURf1IJYpwnrSmLPrudI0RMlp8jeU8_ZGLeS7oTnoJOzrfazIUE5YELQ1nweninE_J6bOmrI1-WMGoe_aNen3CwpYAjgAK55PkpcMy8cTLiitep0629BDiaB9)/dm/3/x5gv5rr/d/live-1080@60.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(cvmG8kLjHakQktKOlHk9jd018dEu66oaI4CM7hb4fiiX8IVVIHDwmT_46v4ZfeQPiaDvOfXvNjs8-g_i4zNk45zfHhO_TCfOUPF5o06CyHr-aJi2nZbtrRmGvcaM5kfb)/dm/3/x5gv5rr/d/live-1080@60.m3u8#cell=lcfb
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/NRJ%2012%20HD.png" group-title="Global" ,NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="Global" ,CNews
-https://live-b.cf.dmcdn.net/sec2(zthv4XIZ29lpo5-9_se44uFBVZwVOulW9Fw9ZQJkyoIBQEtOxjMVZRANlro861FgBo8jjjNWnLZ4YtaozaRd6CQuwhj2230N2tBhnnicllg6MFh_nb0Vw0fjmuq4pkSo)/dm/3/x3b68jn/d/live-1080@60.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(Wn8Nq0ra3f0Cs-Li8ueDJfsf6akDHTW_aTWGXy62Q6qXNxJsBb7SBDz3lloHCXrYBB7tyFSePIwKXlw6_I6_4OE1O-OZX-fi7l1BdF3oOrsIE4FVNI3dvss8iEemkzKs)/dm/3/x3b68jn/d/live-1080@60.m3u8#cell=lcfb
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="Global" ,Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png"group-title="Global" ,RMC STORY
@@ -11,7 +11,7 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png"group-title="Global" ,RMC DÉCOUVERTE
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png"group-title="Global" ,CSTAR
-https://live-b.cf.dmcdn.net/sec2(uLLQBt2OaVzrNnatM122THprmJDj2-3pXGczKvF31Fca9BnvFCfrBLu3RN884z0pmadLgvEVIuJk_RthLZN0JcukFlWKEEp-erY5BqokJBMwmpLAP-REoXwpse0yCvAq)/dm/3/x5gv5v0/d/live-1080@60.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(bce0qxzU7V3uK46Y-hpE8jDqwrSGHIR5vdf8AY2sW7S6UvBeUmmWQ15qGaeTbY7AUzbKEFtjpGTXoCjxpUZWJP_hFOYoHZimsHFzPcHq9fqCzVr8rZTNRCNxgRbEChAO)/dm/3/x5gv5v0/d/live-1080@60.m3u8#cell=lcfb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png"group-title="Global" ,BFM TV
 https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Gulli%20HD.png" group-title="Global" ,Gulli
@@ -519,12 +519,8 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/Paris_Pr
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Dream%27in_TV_Logo.png/revision/latest?cb=20211121155318" group-title="Local" , Dream'In
 #EXTVLCOPT:http-referrer=https://ok.ru/video/8214805094098
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://vsd78.okcdn.ru/hls/7219803327186.m3u8/sig/-zR-xtymEVg/expires/1734272969170/srcIp/102.17.105.133/urls/185.226.52.98/clientType/0/srcAg/GECKO/mid/8214805094098/7219803327186_medium/index.m3u8
+https://vsd78.okcdn.ru/hls/7219803327186.m3u8/sig/a1KGUI4TWDk/expires/1735398383126/srcIp/102.17.105.164/urls/185.226.52.98/clientType/0/srcAg/GECKO/mid/8214805094098/7219803327186_medium/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-bc.tv/templates/finedining/images/logo.png" group-title="Local" , IBC
 #EXTVLCOPT:http-referrer=https://ok.ru/live/7903510798034
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://vsd97.okcdn.ru/hls/6824393247442.m3u8/sig/4Izq8rHiFhk/expires/1734272972846/srcIp/102.17.105.133/urls/45.136.20.62/clientType/0/srcAg/GECKO/mid/7903510798034/6824393247442_medium/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.malagasynews.com/stat/logo/mbstv.png" group-title="Local" , MBS
-#EXTVLCOPT:http-referrer=https://www.twitch.tv/malagasynews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://video-weaver.cdg02.hls.ttvnw.net/v1/playlist/Cr4ESW3skpmxfpVqQClgfd2ar-1-Iejvfdleam_kolCY755sZc-_f2bpJ-8zhR5GFqqywalERtxfoZCb2VSCwbm3cKfXNuBOxbiGZCvbjyw6ZTi52eUEYVIuF5YxJXHokHpNWEwCZKbJdwyeuCNeH8ieTVZPPd8Jmf_E3FDtPOnN3HMbrndCw88kN09Y4Njb9cvqL1y9iJF4eu5Ar5bKkesBb20UyBZPmypDmc5R3Oq5UNyGLZvIW42YGjC6ouJ6yw6Lo5PHU31lf_L-bYv-DQ7QCuZYhYKSXq3BQPQm1eycHt4nnzaHpbYL0cRSw-svMseW5hL9c12DJpD56auNdgUpWLC__Q3KYZWpixTQj19Wvd8x6B-pZSTuvqGt8tSQl_MdPGx-Q_h5PW67Pyml6ttB2zp6OQMUAt2K7uVGm1CfdeEiBU47iNoR21psk7Wz2e40Oe4UeLpNqI9bfoe4BbPKEWexV1aYtyD17X5exHeN8mEUdnXy0gmROywxGump0nraWJnTVmlyxaXB8s0vkQ3IJxx-nHVp5bFcZ2p-s29Cc-KyEAv9DJeTyL6byk896oI11B14AucSaabhOl27pTxBnWkspW2eqHFXiwK4MOWGjI87toOWy43JeXD8bF1p0PtBujoxdu8gPHFXCwBYdctaxedcamNf2sLvKxnzMxfPJPFeQ18lV300ZlroNKihNEujpuLp-JnOgmZ1ATuTQ5DEYT1VDujMhxxFTNoDOol83peBIFpMGdAWZzrfyt7IchoMnE3Sj5LZ1VXFaq6oIAEqCXVzLXdlc3QtMjCLCw.m3u8
+https://vsd155.okcdn.ru/hls/6824393247442.m3u8/sig/SB4Go8PfS5Q/expires/1735398387530/srcIp/102.17.105.164/urls/45.136.22.88/clientType/0/srcAg/GECKO/mid/7903510798034/6824393247442_medium/index.m3u8
